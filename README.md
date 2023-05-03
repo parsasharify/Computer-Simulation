@@ -1,7 +1,7 @@
 # Computer-Simulation
 
-#Instructor
+# Instructor
 Prof. Bardia Safaei
 
-#Author
+# Author
 Parsa Sharifi
